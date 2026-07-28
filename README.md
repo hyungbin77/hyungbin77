@@ -3,11 +3,11 @@
 📫 hbag89503@jbnu.ac.kr / 🏠 https://hyungbin77.github.io/blog/
 
 #### 💪 **Skills**    
-<img src="https://img.shields.io/badge/~~기술명~~-3776AB?style=flat-square&logo=~~로고명~~&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/~~기술명~~-EE4C2C?style=flat-square&logo=~~로고명~~&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/~~기술명~~-D00000?style=flat-square&logo=~~로고명~~&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/~~기술명~~-276DC3?style=flat-square&logo=~~로고명~~&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/~~기술명~~-75AADB?style=flat-square&logo=~~로고명~~&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>&nbsp;
 
 
 ## Summary
