@@ -3,11 +3,12 @@
 📫 hbag89503@jbnu.ac.kr / 🏠 https://hyungbin77.github.io/blog/
 
 #### 💪 **Skills**    
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Nexacro-1E4C8C?style=flat-square&logoColor=white"/>&nbsp;
 
 
 ## Summary
