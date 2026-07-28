@@ -1,4 +1,4 @@
-# Hyung Bin Park 
+# Hyung Bin Park 🤠
 
 📫 hbag89503@jbnu.ac.kr / 🏠 https://hyungbin77.github.io/blog/
 
@@ -17,7 +17,9 @@
 
 
 ## Summary
-~~2~3문장. 현재 소속·학위·전공, 관심 분야, 앞으로 하려는 것.~~
+I am an M.S. candidate in Statistics at Jeonbuk National University (expected 2026), where I also received my B.S. in Statistics in Jul. 2024.
+My earlier work centered on NLP, and I am currently focused on out-of-distribution detection for time series data.
+More broadly, I am interested in AI orchestration — my goal is to become an end-to-end full-stack developer who can take a system from data to deployment.
 
 ## Research interest
 #### ~~대주제~~
