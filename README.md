@@ -17,9 +17,9 @@
 
 
 ## Summary
-I'm wrapping up my M.S. in Statistics at Jeonbuk National University in 2026. I did my undergrad there too, also in Statistics, finishing in Jul. 2024.
+M.S. candidate in Statistics at Jeonbuk National University, expected 2026. I received my B.S. in Statistics from the same university in Jul. 2024.
 
-I spent a good while on NLP and I'm now working on out-of-distribution detection for time series. Lately I've cared less about which subfield I'm in and more about getting models to actually run inside a working system, so I've been picking up the engineering side. The goal is to build the whole thing myself, the model and everything around it.
+My earlier research focused on NLP. I now work on out-of-distribution detection for time series data. Beyond a single research area, I am interested in AI orchestration, and my goal is to become a developer who can build a system end to end, from data and modeling through to deployment..
 
 ## Research interest
 #### ~~대주제~~
